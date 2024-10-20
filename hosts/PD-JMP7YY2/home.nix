@@ -207,14 +207,14 @@ in
         };
         background = [
           {
-            path = "/home/${username}/Pictures/Wallpapers/zaney-wallpaper.jpg";
+            path = "/home/${username}/Pictures/Wallpapers/x-1999-wallpaper.jpg";
             blur_passes = 3;
             blur_size = 8;
           }
         ];
         image = [
           {
-            path = "/home/${username}/.config/face.jpg";
+            path = "/home/${username}/.config/princedimond.jpg";
             size = 150;
             border_size = 4;
             border_color = "rgb(0C96F9)";
