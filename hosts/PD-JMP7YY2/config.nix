@@ -307,6 +307,8 @@ in
     thunderbird
     orca-slicer
     obsidian
+    expressvpn
+    protonvpn-gui
     greetd.tuigreet
   ];
 
@@ -373,6 +375,7 @@ in
     gvfs.enable = true;
     openssh.enable = true;
     flatpak.enable = false;
+    expressvpn.enable = true;
     printing = {
       enable = true;
       drivers = [
