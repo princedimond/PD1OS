@@ -313,6 +313,7 @@ in
     podman-desktop
     podman-tui
     pods
+    sublime-merge
     greetd.tuigreet
   ];
 
