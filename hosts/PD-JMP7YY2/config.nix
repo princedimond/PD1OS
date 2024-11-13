@@ -320,8 +320,11 @@ in
     podman-tui
     pods
     ventoy-full
+<<<<<<< Updated upstream
     visual-studio-code
 >>>>>>> c7614866e89aa2843a10ff0cd43e95e323b944dd
+=======
+>>>>>>> Stashed changes
     greetd.tuigreet
   ];
 
