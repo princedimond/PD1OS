@@ -306,15 +306,22 @@ in
     warp-terminal
     thunderbird
     orca-slicer
+<<<<<<< HEAD
+    obsidian
+=======
     obsidian
     expressvpn
     protonvpn-gui
+<<<<<<< HEAD
+>>>>>>> 7e520b0a5d474a50cfc6945882b7bd5c5524fce3
+=======
     podman
     podman-desktop
     podman-tui
     pods
     ventoy-full
     visual-studio-code
+>>>>>>> c7614866e89aa2843a10ff0cd43e95e323b944dd
     greetd.tuigreet
   ];
 
