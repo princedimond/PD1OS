@@ -313,7 +313,8 @@ in
     podman-desktop
     podman-tui
     pods
-    sublime-merge
+    ventoy-full
+    visual-studio-code
     greetd.tuigreet
   ];
 
